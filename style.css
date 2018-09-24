@@ -65,7 +65,7 @@ li a:hover {
 .top {
     width: 1140px;
     margin: auto;
-    padding: 20px;
+    padding: 0px 30px;
     display: flex;
     color: #fff;
 }
@@ -80,7 +80,9 @@ li a:hover {
 .titletop{
 margin: 50px 20px;
 text-align: center;
+padding: 0px 30px;
 }
+
 
 
 h1 {
@@ -201,6 +203,7 @@ right: 0;
     padding: 10px 0;
     display: flex;
     justify-content: space-between;
+    
 }
 
 
